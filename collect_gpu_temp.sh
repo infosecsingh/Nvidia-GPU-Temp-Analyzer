@@ -1,4 +1,22 @@
 #!/bin/bash
+#####################################################################################################################
+##     collect_gpu_temp.sh
+##
+## DESCRIPTION:
+##      This script will help to collect Nvidia GPU Tempareture Timestamp...
+##      This script can be used for all NVIDIa based GPU. 
+##
+##  For EHL. recommendation to execute in worker node.
+##     - For 1.5.x EHL, this script needs to run in Minion 4 
+##     - For 1.3 EHL, this script needs to run in Minion 3
+##
+## AUTHOR:
+##      Inderjeet Singh
+##      Senior IT Specialist - Edison. 
+##      GE HealthCare Digital
+##
+## DATE: 4th June 2024
+#####################################################################################################################
 
 # Define log file
 LOG_FILE="gpu_temp_log.csv"

@@ -2,6 +2,10 @@
 
 This repository contains scripts for monitoring GPU temperatures on a server with Nvidia GPUs and generating monthly reports. The scripts use `nvidia-smi` to collect temperature data and `awk` to analyze the data.
 
+## Author
+  - Inderjeet Singh(Infosecsingh)
+    -DevOps Engineer
+
 ## Files
 
 - `collect_gpu_temp.sh`: Script to collect GPU temperature data.
@@ -158,3 +162,5 @@ This configuration will:
 
 
 By following these instructions, you can monitor GPU temperatures, generate monthly reports, and manage log file sizes efficiently.
+
+### Author : Inderjeet Singh (Infosecsingh)
