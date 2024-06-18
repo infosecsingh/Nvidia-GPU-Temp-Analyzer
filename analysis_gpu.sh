@@ -6,14 +6,10 @@
 ##      This script will analysis the collected Nvidia GPU Tempareture Timestamp and give us report with gpu_temp_report.txt
 ##      This script can be used for all NVIDIa based GPU. 
 ##
-##  For EHL. recommendation to execute in worker node.
-##     - For 1.5.x EHL, this script needs to run in Minion 4 
-##     - For 1.3 EHL, this script needs to run in Minion 3
 ##
 ## AUTHOR:
 ##      Inderjeet Singh
-##      Senior IT Specialist - Edison. 
-##      GE HealthCare Digital
+##      Senior IT Specialist 
 ##
 ## DATE: 4th June 2024
 #####################################################################################################################
